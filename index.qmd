@@ -1,0 +1,25 @@
+---
+title: "Welcome!"
+format: html
+editor: visual
+---
+
++-------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
+| ![](https://avatars.githubusercontent.com/u/114853998?v=4){width="260"} | Welcome!                                                                                 |
+|                                                                         |                                                                                          |
+|                                                                         | This is the official webpage of METU STAT 112 course.                                    |
+|                                                                         |                                                                                          |
+|                                                                         | The beneficial sources related to data processing and visualization will be shared here. |
+|                                                                         |                                                                                          |
+|                                                                         | Your projects will be also shared publicly through this page.                            |
++-------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
+
+# Course Hours
+
+-   **Tuesday / 09.40-12.30 / P2**
+
+-   **Thursday / 10.40-12.30 & 13.30-15.30 / YP-B201**
+
+## Recitation Notes
+
+-   [Recitation 1 / 13.10.2022](https://metustat112.github.io/Stat%20112-Recitation%201.html)
