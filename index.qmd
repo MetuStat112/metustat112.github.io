@@ -14,12 +14,49 @@ editor: visual
 |                                                                         | Your projects will be also shared publicly through this page.                            |
 +-------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
 
-# Course Hours
+### Course Hours
 
 -   **Tuesday / 09.40-12.30 / P2**
 
 -   **Thursday / 10.40-12.30 & 13.30-15.30 / YP-B201**
 
-## Recitation Notes
+### Recitation Notes
 
 -   [Recitation 1 / 13.10.2022](https://metustat112.github.io/Stat%20112-Recitation%201.html)
+-   [Recitation 2 / 20.10.2022](https://metustat112.github.io/Recitation%202/Recitation-2.html)
+
+### Recommended & Additional Sources
+
+-   [Veri Görselleştirme Kataloğu](https://datavizcatalogue.com/TR/index.html)
+
+-   [Tableau Tutorials for Beginners](https://intellipaat.com/blog/tutorial/tableau-tutorial/)
+
+-   [Charito Blog](https://chartio.com/blog/)
+
+-   [Datawrapper Blog](https://blog.datawrapper.de/)
+
+-   [12 Great Book for Data Visualization](https://www.tableau.com/learn/articles/books-about-data-visualization)
+
+-   [Tableau Help](https://www.tableau.com/support/help)
+
+-   [10 Book for Data Visualization](https://www.datacamp.com/blog/top-10-data-visualization-books)
+
+-   Graphical Data Analysis with R (Chapman & Hall/CRC The R Series) by Antony Unwin
+
+### Recommended Data Sources
+
+-   [Kaggle](https://www.kaggle.com/)
+
+-   [Google Data Search](https://datasetsearch.research.google.com/)
+
+-   [IBB Open Data](https://data.ibb.gov.tr/)
+
+-   [ABB Open Data](https://seffaf.ankara.bel.tr/)
+
+-   [Izmir BB Open Data](https://acikveri.bizizmir.com/)
+
+-   [UCL Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+
+-   [OECD](https://data.oecd.org/)
+
+-   [World Bank](https://data.worldbank.org/)
